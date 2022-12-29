@@ -19,9 +19,9 @@ Create an HTML5 interface with the theme "Parabolic Motion" which contains mater
 ![gambar](./screenshot/pict5.png)
 ![gambar](./screenshot/pict6.png)
 ![gambar](./screenshot/pict7.png)
-![gambar](./screenshot/pict8.png)
 
 ### Quiz
+![gambar](./screenshot/pict8.png)
 ![gambar](./screenshot/pict9.png)
 ![gambar](./screenshot/pict10.png)
 ![gambar](./screenshot/pict11.png)
